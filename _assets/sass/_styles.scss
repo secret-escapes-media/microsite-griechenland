@@ -30,6 +30,11 @@
   float:right!important;
 }
 
+.bv-shadow-inset{
+
+      box-shadow: 0px 0px 20px 0px rgba($black,.5) inset;
+
+}
 
 /* ==========================================================================
    Parallax

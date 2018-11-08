@@ -1,11 +1,11 @@
 
 {% for section in site.data.[page.id] %}
 
-<div id="{{section.id}}" class="{% cycle 'bg--light', 'bg--white' %}" >
+<div id="{{section.id}}" class="{% cycle 'bg--g-darkblue', 'bg--white' %}" >
   <div class="harvey {% cycle '', 'harvey--swap' %} ">
 
-      <div class=" harvey__text" >
-        <div class="titleo title--sm" >{{section.title}}</div>
+      <div class=" harvey__text {% cycle 'text--white', 'text--black' %}" >
+        <div class="sub-title sub-title--lg " >{{section.title}}</div>
         <div class="space--xs"></div>
         <p>{{section.description}} </p>
       </div>
