@@ -1,0 +1,41 @@
+---
+layout: default
+id: kultur
+content-pages: true
+title: Kulturelles Erbe
+intro: "Bekannt als Wiege Europas glänzt Griechenland mit einem wahren Füllhorn kultureller Highlights. Göttliche Tempel, schwebende Klöster und historische Altstädte locken mit geschichtsträchtigen Kulissen, während zeitgenössische Kunst und gepflegte Tradition unvergessliche Eindrücke&nbsp;versprechen."
+nav: true
+nav-order: 3
+banner:
+  title: Kulturelles Erbe
+  title-sub: Auszeit in der Wiege Europas
+
+
+sections:
+
+  - id: one
+    title: UNESCO Weltkulturerbe
+
+  - id: two
+    title: Historische Städte
+
+  - id: three
+    title: Feste & Unterhaltung
+
+---
+
+
+<div class=" vpad--xl" style="">
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+
+{% include nav/page.html content=page.sections %}
+
+{% include page/gallery.html %}
+
+{% include modal/sections.html %}

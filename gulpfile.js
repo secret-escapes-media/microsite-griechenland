@@ -39,7 +39,7 @@ gulp.task('serve', ['build-jekyll'], function() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/template': '_site/'
+        '/de/griechenland': '_site/'
       }
     }
   });
@@ -120,6 +120,7 @@ gulp.task('build-main-js', function(cb) {
     './_assets/js/_components/modal.js',
     './_assets/js/_components/modal-nav.js',
     // './_assets/js/_components/sticky-nav.js',
+    './_assets/js/_components/page-nav.js',
 
     // custom js for project
     './_assets/js/main.js',

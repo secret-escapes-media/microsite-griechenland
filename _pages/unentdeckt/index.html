@@ -1,0 +1,48 @@
+---
+layout: default
+id: unentdeckt
+title: Unentdeckte Orte
+content-pages: true
+intro: "Wer glaubt, schon alles gesehen zu haben, den erwarten im Kosmos Griechenlands einige Überraschungen. Unternehmen Sie eine Rundreise zu surreal pittoresken Bergdörfern und smaragdgrünen Seen, segeln Sie durch ein Kaleidoskop betörender Blautöne und lassen Sie sich von idyllisch abgeschiedenen Hideaways eines Besseren belehren."
+nav: true
+nav-order: 5
+banner:
+  title: Unentdeckte Orte
+  title-sub: Lifestyle zwischen Dünen&nbsp;&&nbsp;Oasen
+
+
+sections:
+
+  - id: one
+    title: Insel Symi
+
+  - id: two
+    title: Lake Vouliagmeni
+
+  - id: three
+    title: Váthia
+
+  - id: four
+    title: Inseln Paxos & Antipaxos
+
+  - id: five
+    title: Dorf Mikro Papigo
+
+---
+
+
+
+<div class=" vpad--xl " >
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+
+{% include nav/page.html content=page.sections %}
+
+{% include page/gallery.html %}
+
+{% include modal/sections.html %}

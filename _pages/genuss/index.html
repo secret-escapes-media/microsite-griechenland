@@ -1,0 +1,48 @@
+---
+layout: default
+id: genuss
+content-pages: true
+title: Genuss
+intro: "Ob Meeresfrüchte von der Chalkidiki, Olivenöl aus Kreta oder Rotwein aus Makedonien – Griechenland lädt mit mediterraner Aromenvielfalt zum Genießen ein. Von appetitlichem Meerblick untermalte Geselligkeit, romantische Sonnenuntergänge und Sirtaki-Klänge in traditionellen Tavernen inklusive."
+nav: true
+nav-order: 4
+banner:
+  title: Genuss
+  title-sub: Die Verlockungen der griechischen Küche
+
+
+sections:
+
+  - id: one
+    title: Olivenöl
+
+  - id: two
+    title: Käse
+
+  - id: three
+    title: Wein
+
+  - id: four
+    title: Meeresfrüchte & Fleisch
+
+  - id: five
+    title: Honig & Süßspeisen
+
+---
+
+
+
+<div class=" vpad--xl" style="">
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+
+{% include nav/page.html content=page.sections %}
+
+{% include page/gallery.html %}
+
+{% include modal/sections.html %}

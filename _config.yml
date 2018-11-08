@@ -1,18 +1,18 @@
 # Site settings
-title: Template
+title: Abu Dhabi
 client:
-  name: Client Name
-  link: "#client-name"
-core-se-link: https://www.secretescapes.com/current-sales
+  name: Abu Dhabi - Ihre außergewöhnliche Geschichte
+  link: "http://bit.ly/2xxsPKS"
+core-se-link: https://www.secretescapes.de/aktuelle-angebote
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abu Dhabi - Eine moderne Oase am Arabischen Golf, eingerahmt von spektakulären Mangrovenlandschaften, majestätischen Wüsten und exotischen Bilderbuchstränden – wie geschaffen für eine märchenhaft orientalische Auszeit voll futuristischer Highlights und architektonischer Superlative. Erleben Sie eine dynamische Metropole, in der Träume glamouröse Wirklichkeit werden bei einem kultivierten Citytrip oder einem exklusiven Strandurlaub zwischen Dünen und Mangroven.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/template" # the subpath of your site, e.g. /blog/
-img:     "/template/_assets/img"
-css:     "/template/_assets/css"
-js:      "/template/_assets/js"
+baseurl: "/de/griechenland" # the subpath of your site, e.g. /blog/
+img:     "/de/griechenland/_assets/img"
+css:     "/de/griechenland/_assets/css"
+js:      "/de/griechenland/_assets/js"
 
 
 # Build settings

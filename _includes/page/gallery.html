@@ -1,0 +1,42 @@
+
+{% for section in site.data.[page.id] %}
+
+<div id="{{section.id}}" class="{% cycle 'bg--light', 'bg--white' %} js-nav-section vpad--xl " >
+  <div class="container">
+    <div class="row row--valign-center row--gutters-md row--6-6">
+
+      <div class="col">
+        <div class="titleo title--sm" >{{section.title}}</div>
+        <div class="space--xs"></div>
+        <p>{{section.description}} </p>
+      </div>
+
+      <div class="col">
+        <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/bg-img/{{section.img}}.jpg');"></div>
+      </div>
+
+    </div>
+    <div class="space--xl"></div>
+    <div class="row row--gutters-md">
+    {% for poi in section.pois.items %}
+      <div id="tracking-poi-{{poi.id}}" class="col col--lg-6 col--xxl-4 text--center js-open-modal" data-open-modal="{{poi.id}}" data-modal-group="section">
+        <div class="bv-modal" >
+          <div class="highlight__image bg-img  bg-img--3-2" style="background-image:url('{{site.img}}/content/{{page.id}}/gallery/{{poi.id}}.jpg'); ">
+            <div class="bv-lineheight text-deco text-deco text--xxxl text--white" style=" padding-bottom:{{poi.pad-bottom}};padding-top:{{poi.pad-top}}; height:30px;">{{poi.title}}</div></div>
+            <div class="bg--white boxpad--lg">
+
+                <div class="bv-box-height text text--md">{{poi.description}}</div>
+                <div class="title title--sm" style="margin-top:-10px; margin-bottom:10px;">...</div>
+
+              <div class="space--xxs"></div>
+              <div class=" text--bold bv-text-colour3">Mehr erfahren</div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+{% endfor %}

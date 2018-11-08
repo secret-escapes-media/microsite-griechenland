@@ -1,0 +1,47 @@
+---
+layout: default
+id: straende
+content-pages: true
+title: Strände & Aktitiväten
+intro: "Mit mehr als 3.000 Inseln und über 13.000 Kilometern Küste gehört Griechenland zu den facettenreichsten Destinationen in Sachen Strandurlaub und Wassersport. Aber auch auf dem von majestätischen Bergen geprägten Festland gibt es bei Wanderungen durch wilde Schluchten und Nationalparks viel zu entdecken. "
+nav: true
+nav-order: 2
+banner:
+  title: Strände & Aktitiväten
+  title-sub: Skyline-Fieber am Wüstenstrand
+
+
+sections:
+
+  - id: one
+    title: Strände
+
+  - id: two
+    title: Wandern
+
+  - id: three
+    title: Segeln
+
+  - id: four
+    title: Tauchen
+
+  - id: five
+    title: Golf
+
+---
+
+
+<div class=" vpad--xl " >
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+
+{% include nav/page.html content=page.sections %}
+
+{% include page/gallery.html %}
+
+{% include modal/sections.html %}

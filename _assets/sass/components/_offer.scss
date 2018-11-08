@@ -87,10 +87,10 @@ $offer-max-width: 600px;
     min-width: $circle-height;
     min-height: $circle-height;
     margin-left: $s-3;
-    border: 1px solid $orange;
+    border: 1px solid #c30e2e;
     border-radius: $circle-height;
     background-repeat: no-repeat;
-    background-image: url('../img/icons/arrow-right-orange.svg');
+    background-image: url('../img/icons/arrow-right-red.svg');
     background-size: auto ($circle-height/2.25);
     background-position: 52% center;
   }
