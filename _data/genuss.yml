@@ -2,64 +2,17 @@
   title: Olivenöl
   page: genuss
   img: bg-img1
-  description: "Auf den Spuren längst vergangener Kulturen wandeln, verewigte Mythen entdecken, archäologische Schätze bestaunen – in Griechenland erwarten Sie antike Heiligtümer wie die Ruinen von Olympia und der Burgberg der Athene, die byzantinischen Prachtstücke von Thessaloniki sowie mykenische Kultstätten aus der Bronzezeit. Göttliche Voraussetzungen für spannende Kulturtrips zu den Wahrzeichen von Zeus, Apollon & Co. Das spätmittelalterliche Ensemble von Rhodos und die Altstadt von Korfu verwandeln die Inselwelt in ein lebendes Museum."
-
-  pois:
-
-    title:
-    items:
-
-      - id: 1-1
-        title: Agai, Makedonien
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
-
-      - id: 1-2
-        title: Akropolis, Athen
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Pantheon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben muss. "
-
-      - id: 1-3
-        title: Orakel von Delphi
-        description: "DIn der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Corinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas bestimmte."
-
-      - id: 1-4
-        title: Olympia Peleponnes
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
+  description: "Griechenland und die Früchte des Ölbaums sind untrennbar miteinander verbunden. Ob würzig oder mild, schwarz oder grün, Kalamata oder Koroneiki – eine Schale Oliven bereichert jeden gedeckten Tisch. Handwerklich hergestellte Olivenöle aus Kreta, seltene Öl-Raritäten aus Thasos und das flüssige Gold Chalkidikis zeugen von der seit Jahrtausenden anhaltenden Bedeutung der Olivenbäume, die von Attika bis Zakynthos das tägliche Mahl bereichern. "
 
 
 ################################################################################
 
 
 - id: two
-  title: "Käse"
+  title: "Feta & Co."
   page: genuss
   img: bg-img2
-  visible: none;
-  description: "Gemächlich kauende Dromedare, frisches Kokoswasser, türkises Meer und traumhafte Sandstrände, mit einem Hauch von Karibik – das erwartet Sie in der Küstenstadt Salalah im Südwesten des Sultanats Oman. Eine exotische Naturlandschaft, traditionelle Märkte und authentische Ursprünglichkeit machen Salalah zu einem Ziel für Entdecker und Genießer. Hier versteckt sich eine perfekte Komposition aus Badeparadies und Kulturstadt, die als Mittelpunkt der Weihrauchstraße einst zu den wichtigsten Handelszentren des Landes gehörte."
-
-  pois:
-
-    title:
-    items:
-
-      - id: 2-1
-        title: Korfu-Stadt
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
-
-      - id: 2-2
-        title: Thessaloniki
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Pantheon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben muss. "
-
-      - id: 2-3
-        title: Chania (Kreta)
-        description: "DIn der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Corinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas bestimmte."
-
-      - id: 2-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
-
-      - id: 2-5
-        title: Nafplio
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
+  description: "Auch wenn den meisten beim Thema Käse zunächst der allseits beliebte Feta in den Sinn kommt – die glücklichen Schafe und Ziegen der griechischen Bauern liefern nicht nur den Rohstoff für zart schmelzenden Weichkäse. Je nach Region und lokalen Vorlieben wird die Milch zu würzigem Kaseri, mildem Kykladen-Graviera oder rauchigem Metsovone weiterverarbeitet. Der salzige Kefalotyri eignet sich perfekt zum Veredeln eines Moussaka-Auflaufs oder als Begleiter zu einem samtigen Glas Agiorgítiko."
 
 
 
@@ -67,36 +20,10 @@
 
 
 - id: three
-  title: "Wein"
+  title: "Meeresfrüchte, Fleisch & Gemüse"
   page: genuss
   img: bg-img3
-  visible: none;
-  description: "Gemächlich kauende Dromedare, frisches Kokoswasser, türkises Meer und traumhafte Sandstrände, mit einem Hauch von Karibik – das erwartet Sie in der Küstenstadt Salalah im Südwesten des Sultanats Oman. Eine exotische Naturlandschaft, traditionelle Märkte und authentische Ursprünglichkeit machen Salalah zu einem Ziel für Entdecker und Genießer. Hier versteckt sich eine perfekte Komposition aus Badeparadies und Kulturstadt, die als Mittelpunkt der Weihrauchstraße einst zu den wichtigsten Handelszentren des Landes gehörte."
-
-  pois:
-
-    title:
-    items:
-
-      - id: 3-1
-        title: Korfu-Stadt
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
-
-      - id: 3-2
-        title: Thessaloniki
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Pantheon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben muss. "
-
-      - id: 3-3
-        title: Chania (Kreta)
-        description: "DIn der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Corinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas bestimmte."
-
-      - id: 3-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
-
-      - id: 3-5
-        title: Nafplio
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
+  description: "Das wichtigste bei einem traditionellen griechischen Festmahl ist die Geselligkeit. Was Vorspeise ist und was Hauptgang, spielt angesichts der dargebotenen kalten und warmen Köstlichkeiten keine Rolle. Gebackener Saganaki, gegrillter Oktopus, Lammkoteletts und Souvlaki-Spieße werden über den Tisch gereicht, frisch gebackenes Brot in Tzatziki gedippt, mit Ouzo flambierte Garnelen probiert. Entgegen hartnäckiger Gerüchte hat auch die vegetarische Küche einiges zu bieten, wie die bunten Mezeteller mit Skordalia, Fava und Melitzanosalatat beweisen. "
 
 
 
@@ -104,73 +31,20 @@
 
 
 - id: four
-  title: "Meeresfrüchte & Fleisch"
+  title: "Wein"
   page: genuss
-  img: bg-img3
-  visible: none;
-  description: "Gemächlich kauende Dromedare, frisches Kokoswasser, türkises Meer und traumhafte Sandstrände, mit einem Hauch von Karibik – das erwartet Sie in der Küstenstadt Salalah im Südwesten des Sultanats Oman. Eine exotische Naturlandschaft, traditionelle Märkte und authentische Ursprünglichkeit machen Salalah zu einem Ziel für Entdecker und Genießer. Hier versteckt sich eine perfekte Komposition aus Badeparadies und Kulturstadt, die als Mittelpunkt der Weihrauchstraße einst zu den wichtigsten Handelszentren des Landes gehörte."
-
-  pois:
-
-    title:
-    items:
-
-      - id: 3-1
-        title: Korfu-Stadt
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
-
-      - id: 3-2
-        title: Thessaloniki
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Pantheon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben muss. "
-
-      - id: 3-3
-        title: Chania (Kreta)
-        description: "DIn der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Corinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas bestimmte."
-
-      - id: 3-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
-
-      - id: 3-5
-        title: Nafplio
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
-
+  img: bg-img4
+  description: "Das Blut der Erde, antiker Göttertrunk und Leibgetränk des Gottes Dionysos – die sagenumwobene Wirkung des griechischen Weins geht auf jahrtausendealte Erfahrung zurück. Schon in den Werken Homers als flüssiges Kulturgut gepriesen, gehören die edlen Tropfen aus Thrakien bis heute zum Standard-Portfolio jeder gut sortierten Weinkarte. Weißer Monemvasia aus Paros, edler Xinomavro aus Naoussa und kräftiger Mavrostyfo von der Peloponnes zeugen von der geschmacklichen Vielfalt griechischer Reben, die schon so manchen Genießerurlaub nachhaltig versüßt haben.    "
 
 
 ################################################################################
 
 
 - id: five
-  title: "Honig & Süßspeisen"
+  title: "Süße Versuchungen"
   page: genuss
-  img: bg-img3
-  visible: none;
-  description: "Gemächlich kauende Dromedare, frisches Kokoswasser, türkises Meer und traumhafte Sandstrände, mit einem Hauch von Karibik – das erwartet Sie in der Küstenstadt Salalah im Südwesten des Sultanats Oman. Eine exotische Naturlandschaft, traditionelle Märkte und authentische Ursprünglichkeit machen Salalah zu einem Ziel für Entdecker und Genießer. Hier versteckt sich eine perfekte Komposition aus Badeparadies und Kulturstadt, die als Mittelpunkt der Weihrauchstraße einst zu den wichtigsten Handelszentren des Landes gehörte."
-
-  pois:
-
-    title:
-    items:
-
-      - id: 3-1
-        title: Korfu-Stadt
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
-
-      - id: 3-2
-        title: Thessaloniki
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Pantheon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben muss. "
-
-      - id: 3-3
-        title: Chania (Kreta)
-        description: "DIn der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Corinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas bestimmte."
-
-      - id: 3-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
-
-      - id: 3-5
-        title: Nafplio
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
+  img: bg-img5
+  description: "Eine griechische Mahlzeit ohne süßen Abschluss? Undenkbar! Vor allem, wenn man so verlockende Zutaten wie Tannenhonig aus Vytina, geröstete Pistazien aus Egina oder Kirschen aus Thessalien zur Verfügung hat. Zum obligatorischen Mokka gesellt sich ein Tellerchen Mandelhalva mit Sesampaste, Marzipan aus Kythira oder mit Rosenzucker veredelte Pommelos. Ein cremiger Joghurt mit Walnüssen und Orangenhonig gehört nicht nur auf Kreta zur köstlichen Tradition. Die Variationen der allseits beliebten Süßspeise Baklava sind so zahlreich wie die griechischen Inseln. "
 
 
 

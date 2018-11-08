@@ -40,7 +40,6 @@
   title: "Wandern"
   page: straende
   img: bg-img2
-  visible: none;
   description: "Bei so viel Inselpracht kann man schon mal aus dem Auge verlieren, dass Griechenland ein wahres Wanderparadies ist. Mit über 70 Prozent Gebirgsanteil bietet nicht nur das Festland erstklassige Voraussetzungen für abwechslungsreiche Trekking-Touren durch zerklüftete Schluchten, maritime Nationalparks und alpine Gipfelwelten. Auch auf den Inseln der Archipele dürfen sich Aktivurlauber über zertifizierte Wanderwege und Panorama-Stopps freuen. Besteigen Sie den Olymp, erkunden Sie die Peloponnes auf dem Menalon Trail oder entdecken Sie inmitten des Pindos-Gebirges eine der tiefsten Schluchten der Welt."
 
   pois:
@@ -145,13 +144,6 @@
   page: straende
   img: bg-img5
   description: "Eine Partie Golf mit Meerblick gefällig? Dann sind Sie auf den Golfplätzen Griechenlands an der richtigen Adresse. Auf dem preisgekrönten Costa Navario – The Dunes Course haben Sie das Ionische Meer immer fest im Blick. Der The Crete Golf Club glänzt mit exquisiter Lage zwischen Bergen und Mittelmeer, während der von Donald Harradine gestaltete 18-Loch Kurs des Corfu Golf Club mit britischer Finesse und üppiger Vegetation zu überzeugen weiß. "
-
-  pois:
-
-    title:
-    items:
-
-
 
 
 

@@ -1,11 +1,11 @@
 # Site settings
-title: Abu Dhabi
+title: Griechenland
 client:
-  name: Abu Dhabi - Ihre außergewöhnliche Geschichte
+  name: Griechenland - Ein Kosmos voller Sehnsuchtsorte
   link: "http://bit.ly/2xxsPKS"
 core-se-link: https://www.secretescapes.de/aktuelle-angebote
 description: >
-  Abu Dhabi - Eine moderne Oase am Arabischen Golf, eingerahmt von spektakulären Mangrovenlandschaften, majestätischen Wüsten und exotischen Bilderbuchstränden – wie geschaffen für eine märchenhaft orientalische Auszeit voll futuristischer Highlights und architektonischer Superlative. Erleben Sie eine dynamische Metropole, in der Träume glamouröse Wirklichkeit werden bei einem kultivierten Citytrip oder einem exklusiven Strandurlaub zwischen Dünen und Mangroven.
+  Malerische Inselwelten, antike Kulturschätze, pittoreske Tavernen – die Heimat der Götter ist seit jeher ein Garant für mediterrane Sternstunden..
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
