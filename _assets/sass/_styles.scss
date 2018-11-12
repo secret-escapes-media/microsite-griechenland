@@ -5,14 +5,37 @@
    Gallery - Thumbnails
    ========================================================================== */
 
+.bv-modal {
+  border-bottom: 2px solid rgba($grey, .4);
+}
+
+
 .bv-box-height{
-  height: 65px;
+  height: 45px;
   overflow: hidden;
 
   @include bp($md){
-    height: 70px;
+    height: 50px;
     overflow: hidden; }
-}
+
+
+  &--3dots   {
+    height: 40px;
+    margin-top: -20px;
+    overflow: hidden;}
+  }
+
+
+/* ==========================================================================
+   Typo
+   ========================================================================== */
+
+
+   .bv-lineheight{
+
+    line-height: 1.2em;
+   }
+
 
 /* ==========================================================================
    Show/Hide Content

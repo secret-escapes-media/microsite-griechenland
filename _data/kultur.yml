@@ -10,7 +10,7 @@
     items:
 
       - id: 1-1
-        title: Agai, Makedonien
+        title: Aigai, Makedonien
         description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eiszeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands gewährt."
 
       - id: 1-2
@@ -78,7 +78,7 @@
 
       - id: 3-1
         title: Hellenic Festival, Athen
-        description: "IJedes Jahr von Mai bis Oktober verwandelt sich Athen in eine Metropole der Kultur. Open-Air-Konzerte mit Weltstars, Theateraufführungen in antiken Kulissen und ein facettenreiches Rahmenprogramm lassen die Hauptstadt in altem Glanz erstrahlen. Ob Tragödie im Amphitheater von Epidauros, byzantinisch inspirierter Jazz oder monumental inszenierte Klassik – beim Athens and Epidaurus Festival werden die Straßen zur Bühne. "
+        description: "Jedes Jahr von Mai bis Oktober verwandelt sich Athen in eine Metropole der Kultur. Open-Air-Konzerte mit Weltstars, Theateraufführungen in antiken Kulissen und ein facettenreiches Rahmenprogramm lassen die Hauptstadt in altem Glanz erstrahlen. Ob Tragödie im Amphitheater von Epidauros, byzantinisch inspirierter Jazz oder monumental inszenierte Klassik – beim Athens and Epidaurus Festival werden die Straßen zur Bühne. "
 
       - id: 3-2
         title: Konzert in Athens Concert Hall

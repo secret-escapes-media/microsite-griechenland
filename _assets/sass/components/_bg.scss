@@ -2,10 +2,10 @@
 
 .bg {
   &--white { background-color: $white; }
-  &--light { background-color: $grey-lightest; }
+  &--light { background-color: $grey-lighter; }
   &--dark  { background-color: $grey-dark; }
   &--darker  { background-color: $grey-darker; }
-  &--g-blue { background-color: $g-blue; }
+  &--g-blue { background-color: rgba($g-blue,.2); }
   &--g-darkblue { background-color: $g-darkblue; }
   &--img   { @include background-attributes; }
   &__fixed {

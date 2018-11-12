@@ -21,6 +21,7 @@ $nav-color:          $white;
   z-index: $z-nav;
   width: 100%;
   background-color: rgba($nav-color,0);
+  box-shadow: 0px 0px 50px 1px rgba($nav-color,.2) inset ;
   text-align: center;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
@@ -96,8 +97,8 @@ $nav-color:          $white;
     color: $white;
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { box-shadow: 0px 0px 40px 0px rgba($nav-color,.3) inset;  }
-    .no-touch &:hover { box-shadow: 0px 0px 0px 1px rgba($nav-color,.2) inset;  }
+    &.is-current      { box-shadow: 0px 0px 50px 1px rgba($nav-color,.25) inset ;  }
+    .no-touch &:hover { box-shadow: 0px 0px 50px 1px rgba($nav-color,.1) inset ;  }
   }
 
   // js-sticky-nav style
