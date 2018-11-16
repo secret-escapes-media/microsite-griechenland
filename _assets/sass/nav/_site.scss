@@ -2,7 +2,7 @@
 
 $site-nav-height:    65px;
 $site-nav-height-sm: 44px;
-$nav-width-bp:       800px;
+$nav-width-bp:       920px;
 $nav-color:          $white;
 
 
@@ -23,6 +23,7 @@ $nav-color:          $white;
   background-color: rgba($nav-color,0);
   box-shadow: 0px 0px 50px 1px rgba($nav-color,.2) inset ;
   text-align: center;
+
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
   &__offset:before {
@@ -90,8 +91,8 @@ $nav-color:          $white;
     padding-left: $s0;
     padding-right: $s0;
     font-family: $font-core;
-    font-weight: 600;
-    font-size: $s-1;
+    font-weight: 700;
+    font-size: 13px;
     letter-spacing: .143em;
     text-transform: uppercase;
     color: $white;

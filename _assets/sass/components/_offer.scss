@@ -56,7 +56,6 @@ $offer-max-width: 600px;
       margin-right: .5em;
       margin-bottom: .2em;
       vertical-align: middle;
-      background-image: url( "../img/icons/map-pin.svg" );
       background-position: center;
       background-repeat: no-repeat;
       background-size: 100%;
@@ -87,10 +86,10 @@ $offer-max-width: 600px;
     min-width: $circle-height;
     min-height: $circle-height;
     margin-left: $s-3;
-    border: 1px solid #c30e2e;
+    border: 1px solid  $g-darkblue;
     border-radius: $circle-height;
     background-repeat: no-repeat;
-    background-image: url('../img/icons/arrow-right-red.svg');
+    background-image: url('../img/icons/arrow-right-offer.svg');
     background-size: auto ($circle-height/2.25);
     background-position: 52% center;
   }
@@ -107,7 +106,7 @@ $offer-max-width: 600px;
       font-weight: 600;
       letter-spacing: 0;
       line-height: $circle-height;
-      background-color: $orange;
+      background-color: $g-darkblue;
       border-radius: $circle-height;
     }
   }
@@ -124,7 +123,7 @@ $offer-max-width: 600px;
     background-color: $grey-lighter;
   }
   &__price {
-    color: $orange;
+    color: $g-darkblue;
     font-size: $s2;
     font-weight: 600;
     line-height: 1;

@@ -9,7 +9,7 @@
   text-transform: uppercase;
   letter-spacing: .25em;
   line-height: 1.33;
-  border-radius: 3px;
+  border-radius: 4px;
   cursor: pointer;
   @include transition;
   &--sm { padding: $s1 $s4; font-size: $s-2; }
@@ -18,7 +18,10 @@
     &:hover { background-color: $orange-dark; }
   }
   &--g-blue { background-color: $g-blue;
-    &:hover { background-color: $orange-dark; }
+    &:hover { background-color: $g-darkblue; }
+  }
+  &--white { background-color: $white; color: $g-darkblue; border: 1px solid $g-darkblue;
+    &:hover { background-color: $g-darkblue; color: $white; border: 1px solid $white; }
   }
   &--outline {
     color: inherit;
