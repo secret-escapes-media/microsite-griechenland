@@ -3,7 +3,7 @@ layout: default
 id: overview
 nav: true
 nav-order: 1
-title: Griechenland - Ein Kosmos voller Sehnsuchtsorte
+title: Ein Kosmos voller Sehnsuchtsorte
 
 banner:
   title: Griechenland
@@ -12,6 +12,8 @@ banner:
 
 nav-title: Übersicht
 intro: "Malerische Inselwelten, antike Kulturschätze, pittoreske Tavernen – die Heimat der Götter ist seit jeher ein Garant für mediterrane Sternstunden. Erliegen Sie dem himmlisch hellenischen Mix aus azurblauen Buchten und jahrtausendealter Geschichte, bestaunen Sie sich olympische Heiligtümern und verlieben Sie sich zwischen strahlend weißen Fischerdörfern und farbenfrohen Tauchrevieren in Ihren ganz persönlichen Traumstrand. Willkommen in Griechenland, einem Kosmos voller landschaftlicher, kultureller und kulinarischer&nbsp;Sehnsuchtsorte. "
+
+
 
 ---
 
@@ -33,6 +35,8 @@ intro: "Malerische Inselwelten, antike Kulturschätze, pittoreske Tavernen – d
 <div class="container vpad--xxl">
 
   {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
+
+
   {% for destination in destinations %}
 
 
