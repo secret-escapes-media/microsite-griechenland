@@ -1,18 +1,89 @@
-- title: 5*-Luxus mit Privatstrand in Abu&nbsp;Dhabi
-  id: bab-al-qasr-beach
-  location: Bab Al Qasr Beach Resort & Spa by Millennium, Abu Dhabi, VAE
-  description: Inkl. Frühstück oder All-inclusive, Transfers & optional Tickets für den Yas Island Themenpark
-  price: 85
-  price-description: Pro Person - basierend auf 2 Personen
-  saved: 58
-  link: http://bit.ly/2C5pve3
+- title: Strandluxus an Kretas Nordküste
+  id: strandluxus-an-kretas-nordkuste
+  location: Radisson Blu Beach Resort, Milatos, Kreta, Griechenland
+  description: Zimmer oder Suite inkl. Halbpension, Spa-Gutschein, Restaurant-Gutschein & Extras
+  price: 79
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 45
+  link: http://bit.ly/2DNvJ3X
+  flight-tag: #
 
-- title: Der orientalische Zauber Abu Dhabis
-  id: corniche-hotel
-  location: Corniche Hotel Abu Dhabi, Vereinigte Arabische Emirate
-  description: Elegante Junior-Suite mit Blick auf das Meer – inkl. Halbpension
-  price: 66
-  price-description: Pro Person - basierend auf 2 Personen
-  saved: 65
-  link: http://bit.ly/2OZ7G7j
+- title: Sommertraum Mykonos
+  id: sommertraum-mykonos
+  location: La Residence Mykonos, Kalafati, Mykonos, Griechenland
+  description: Inkl. Frühstück, 1x Verkostungsmenü, Begrüßungsgetränk mit Canapés & Flughafentransfers
+  price: 103
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 60
+  link: http://bit.ly/2TqMvdQ
+  flight-tag: #
+
+- title: Aparter Ägäis-Chic auf Mykonos
+  id: aparter-agais-chic-auf-mykonos
+  location: Dreambox Mykonos Suites, Ornos, Mykonos, Kykladen, Griechenland
+  description: Kykladenträume rund um die Ornos-Bucht – inkl. Frühstück & Transfers
+  price: 88
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 47
+  link: http://bit.ly/2OTJJdD
+  flight-tag: #
+
+- title: "Hellas: 5*-Inselglück auf Kos"
+  id: hellas-5-inselgluck-auf-kos
+  location: Mitsis Ramira Beach Hotel, Kos, Griechenland
+  description: Inkl. Flügen, Transfers, kostenfreiem Upgrade & All-inclusive
+  price: 522
+  price-description: pro Person für 7 Nächte
+  saved: 32
+  link: http://bit.ly/2PAlK8p
   flight-tag: true
+
+- title: Neues Suiten-Hotel in Kretas Norden
+  id: neues-suiten-hotel-in-kretas-norden
+  location: T-Hotel Premium Suites, Bali bei Rethymno, Kreta, Griechenland
+  description: "Frühbucher-Special: Inkl. Flügen, Mietwagen, Halbpension, Rail&Fly & Obstkorb"
+  price: 799
+  price-description: pro Person für 7 Nächte
+  saved: 20
+  link: http://bit.ly/2OPl4qo
+  flight-tag: true
+
+- title: Boutique-Suiten an der Riviera von Athen
+  id: boutique-suiten-an-der-riviera-von-athen
+  location: Somewhere Boutique Hotel Vouliagmeni, Athen, Griechenland
+  description: Superior-Strandglück bei Athen inkl. Frühstück, kostenloser Erstbefüllung der Minibar
+  price: 128
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 33
+  link: http://bit.ly/2RZSRiM
+  flight-tag: #
+
+- title: 5*-Lifestyle auf Chalkidiki
+  id: lifestyle-auf-chalkidiki
+  location: Sani Dunes Resort, Kassandra, Chalkidiki, Griechenland
+  description: Luxuriöse Erholung an der Ägäis – inkl. Flügen, Privattransfers, Vollpension & Begrüßungsgetränk
+  price: 949
+  price-description: pro Person für 7 Nächte
+  saved: 17
+  link: http://bit.ly/2Q5q0Ml
+  flight-tag: true
+
+- title: Griechischer 5*-Glanz auf Korfu
+  id: griechischer-5-glanz-auf-korfu
+  location: Domes Miramare Corfu, Korfu, Griechenland
+  description: "Frühbucher-Special: Adults-only-Hotel mit Flügen, Transfers, Frühstück, 1x Lunch & 1x Dinner"
+  price: 819
+  price-description: pro Person für 7 Nächte
+  saved: 29
+  link: http://bit.ly/2FrYogj
+  flight-tag: #
+
+- title: 5*-Suitenluxus auf Santorin
+  id: suitenluxus-auf-santorin
+  location: Phōs The Boutique, Akrotiri, Santorin, Griechenland
+  description: Inkl. Frühstück, 1 Flasche Wein, Obst auf dem Zimmer bei Ankunft & Minibar-Ermäßigung
+  price: 169
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 53
+  link: http://bit.ly/2S0knMK
+  flight-tag: #
