@@ -87,3 +87,33 @@
   saved: 53
   link: http://bit.ly/2S0knMK
   flight-tag: #
+
+- title: Elegante Neueröffnung auf Kos
+  id: elegante-neueroffnung-auf-kos
+  location: Harmony Crest Resort, Psalidi, Kos, Griechenland
+  description: "Ab April 2019: Edel-Design mit Mittelmeerpanorama auf Kos inkl. All-inclusive"
+  price: 46
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 50
+  link: http://bit.ly/2BjYRwZ
+  flight-tag: #
+
+- title: Inselglück – Panoramablick aufs Ionische Meer
+  id: inselgluck-panoramablick-aufs-ionische-meer
+  location: Grecotel Eva Palace, Kommeno, Korfu, Griechenland
+  description: Erholsame Urlaubstage in tropischer Gartenidylle erleben – inkl. All-inclusive & 1 Flasche Wein
+  price: 77
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 65
+  link: http://bit.ly/2DylG1K
+  flight-tag: #
+
+- title: Designhotel mit Spa an der Ägäis
+  id: designhotel-mit-spa-an-der-agais
+  location: Thalatta Seaside Hotel, Euböa, Griechenland
+  description: Inkl. Frühstück, 1x Spa-Anwendung, Begrüßungspräsent, 1x täglich Retreat-Session & Extras
+  price: 54
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 63
+  link: http://bit.ly/2Ts5rZx
+  flight-tag: #
