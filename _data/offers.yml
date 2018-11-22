@@ -97,3 +97,33 @@
   saved: 63
   link: http://bit.ly/2Ts5rZx
   flight-tag: #
+
+- title: Entschleunigung an der Ägäis
+  id: entschleunigung-an-der-agais
+  location: Dion Palace, Gritsa, Litochoro, Zentralmakedonien, Griechenland
+  description: Inkl. Halbpension, 1 Flasche Wein, Zugang zur Acquazone & Extras
+  price: 36
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 66
+  link: http://bit.ly/2Qc7a6n
+  flight-tag: #
+
+- title: Griechischer 5*-Genuss auf Skiathos
+  id: griechischer-5-genuss-auf-skiathos
+  location: Elivi Skiathos, Koukounaries, Skiathos, Nördliche Sporaden, Griechenland
+  description: Edle Zimmer & Junior-Suiten mit Frühstück, 1x Wein & Transfers
+  price: 78
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 55
+  link: http://bit.ly/2DCEo8m
+  flight-tag: #
+
+- title: Ultimativer Luxus mit Privatpool auf Rhodos
+  id: ultimativer-luxus-mit-privatpool-auf-rhodos
+  location: Lindian Village, Rhodos, Griechenland
+  description: Suitenluxus im Edelresort inkl. Flügen, Transfers & Halbpension
+  price: 1199
+  price-description: pro Person für 7 Nächte
+  saved: 22
+  link: http://bit.ly/2S5d3j3
+  flight-tag: true
