@@ -1,33 +1,3 @@
-- title: Strandluxus an Kretas Nordküste
-  id: strandluxus-an-kretas-nordkuste
-  location: Radisson Blu Beach Resort, Milatos, Kreta, Griechenland
-  description: Zimmer oder Suite inkl. Halbpension, Spa-Gutschein, Restaurant-Gutschein & Extras
-  price: 79
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 45
-  link: http://bit.ly/2DNvJ3X
-  flight-tag: #
-
-- title: Sommertraum Mykonos
-  id: sommertraum-mykonos
-  location: La Residence Mykonos, Kalafati, Mykonos, Griechenland
-  description: Inkl. Frühstück, 1x Verkostungsmenü, Begrüßungsgetränk mit Canapés & Flughafentransfers
-  price: 103
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 60
-  link: http://bit.ly/2TqMvdQ
-  flight-tag: #
-
-- title: Aparter Ägäis-Chic auf Mykonos
-  id: aparter-agais-chic-auf-mykonos
-  location: Dreambox Mykonos Suites, Ornos, Mykonos, Kykladen, Griechenland
-  description: Kykladenträume rund um die Ornos-Bucht – inkl. Frühstück & Transfers
-  price: 88
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 47
-  link: http://bit.ly/2OTJJdD
-  flight-tag: #
-
 - title: "Hellas: 5*-Inselglück auf Kos"
   id: hellas-5-inselgluck-auf-kos
   location: Mitsis Ramira Beach Hotel, Kos, Griechenland
@@ -41,22 +11,12 @@
 - title: Neues Suiten-Hotel in Kretas Norden
   id: neues-suiten-hotel-in-kretas-norden
   location: T-Hotel Premium Suites, Bali bei Rethymno, Kreta, Griechenland
-  description: "Frühbucher-Special: Inkl. Flügen, Mietwagen, Halbpension, Rail&Fly & Obstkorb"
-  price: 799
+  description: Prost – auf Ihren Urlaub! Inkl. Extra-Flasche Wein, Flügen, Mietwagen, Halbpension und Rail&Fly
+  price: 769
   price-description: pro Person für 7 Nächte
-  saved: 20
+  saved: 23
   link: http://bit.ly/2OPl4qo
   flight-tag: true
-
-- title: Boutique-Suiten an der Riviera von Athen
-  id: boutique-suiten-an-der-riviera-von-athen
-  location: Somewhere Boutique Hotel Vouliagmeni, Athen, Griechenland
-  description: Superior-Strandglück bei Athen inkl. Frühstück, kostenloser Erstbefüllung der Minibar
-  price: 128
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 33
-  link: http://bit.ly/2RZSRiM
-  flight-tag: #
 
 - title: 5*-Lifestyle auf Chalkidiki
   id: lifestyle-auf-chalkidiki
@@ -72,58 +32,78 @@
   id: griechischer-5-glanz-auf-korfu
   location: Domes Miramare Corfu, Korfu, Griechenland
   description: "Frühbucher-Special: Adults-only-Hotel mit Flügen, Transfers, Frühstück, 1x Lunch & 1x Dinner"
-  price: 819
+  price: 799
   price-description: pro Person für 7 Nächte
   saved: 29
   link: http://bit.ly/2FrYogj
-  flight-tag: #
+  flight-tag: true
 
-- title: 5*-Suitenluxus auf Santorin
+- title: "Frühbucher: 5*-Suitenluxus auf Santorin"
   id: suitenluxus-auf-santorin
   location: Phōs The Boutique, Akrotiri, Santorin, Griechenland
   description: Inkl. Frühstück, 1 Flasche Wein, Obst auf dem Zimmer bei Ankunft & Minibar-Ermäßigung
-  price: 169
+  price: 152
   price-description: pro Person - basierend auf 2 Personen
-  saved: 53
+  saved: 58
   link: http://bit.ly/2S0knMK
   flight-tag: #
 
-- title: Designhotel mit Spa an der Ägäis
-  id: designhotel-mit-spa-an-der-agais
-  location: Thalatta Seaside Hotel, Euböa, Griechenland
-  description: Inkl. Frühstück, 1x Spa-Anwendung, Begrüßungspräsent, 1x täglich Retreat-Session & Extras
-  price: 54
+- title: Romantisches Boutiquehotel auf Kos
+  id: romantisches-boutiquehotel-auf-kos
+  location: Diamond Boutique Hotel, Kos, Griechenland
+  description: Inkl. Halbpension, Begrüßungsgetränk, Obst und Wein auf dem Zimmer & Extra
+  price: 47
   price-description: pro Person - basierend auf 2 Personen
-  saved: 63
-  link: http://bit.ly/2Ts5rZx
+  saved: 50
+  link: http://bit.ly/2TN5v6a
   flight-tag: #
 
-- title: Entschleunigung an der Ägäis
-  id: entschleunigung-an-der-agais
-  location: Dion Palace, Gritsa, Litochoro, Zentralmakedonien, Griechenland
-  description: Inkl. Halbpension, 1 Flasche Wein, Zugang zur Acquazone & Extras
-  price: 36
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 66
-  link: http://bit.ly/2Qc7a6n
-  flight-tag: #
-
-- title: Griechischer 5*-Genuss auf Skiathos
-  id: griechischer-5-genuss-auf-skiathos
-  location: Elivi Skiathos, Koukounaries, Skiathos, Nördliche Sporaden, Griechenland
-  description: Edle Zimmer & Junior-Suiten mit Frühstück, 1x Wein & Transfers
-  price: 78
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 55
-  link: http://bit.ly/2DCEo8m
-  flight-tag: #
-
-- title: Ultimativer Luxus mit Privatpool auf Rhodos
-  id: ultimativer-luxus-mit-privatpool-auf-rhodos
-  location: Lindian Village, Rhodos, Griechenland
-  description: Suitenluxus im Edelresort inkl. Flügen, Transfers & Halbpension
-  price: 1199
+- title: Traumurlaub de luxe unter der Sonne Kretas
+  id: traumurlaub-de-luxe-unter-der-sonne-kretas
+  location: Cavo Spada Luxury Sports & Leisure Resort & Spa, Kolymbari, Kreta, Griechenland
+  description: Exklusive All-inclusive-Auszeit mit Meerblick inkl. Flügen, Rail&Fly & Flughafen-Transfers
+  price: 625
   price-description: pro Person für 7 Nächte
-  saved: 22
-  link: http://bit.ly/2S5d3j3
+  saved: 20
+  link: http://bit.ly/2FKW3NK
+  flight-tag: true
+
+- title: Paradiesisches 5*-Strandresort auf Chalkidiki
+  id: paradiesisches-5-strandresort-auf-chalkidiki
+  location: Eagles Palace, Ouranopolis, Chalkidiki, Griechenland
+  description: Inkl. Flügen, Direkttransfers, Halbpension, Begrüßungsgetränk & WLAN-Nutzung
+  price: 766
+  price-description: pro Person für 7 Nächte
+  saved: 28
+  link: http://bit.ly/2DMCgLl
+  flight-tag: true
+
+- title: Sommertraum Mykonos
+  id: sommertraum-mykonos
+  location: La Residence Mykonos, Kalafati, Mykonos, Griechenland
+  description: Inkl. Flügen, Transfers, Frühstück, 1x 5-Gänge-Menü & Begrüßungsgetränk
+  price: 765
+  price-description: pro Person für 5 Nächte
+  saved: 39
+  link: http://bit.ly/2BBIgVL
+  flight-tag: true
+
+- title: Inselglück in der griechischen Ägäis
+  id: inselgluck-in-der-griechischen-agais
+  location: Kassandra Bay Resort & Spa, Skiathos, Griechenland
+  description: Entspannter Badeurlaub in Skiathos – inkl. Halbpension, 1 Flasche Wein & 1x Spa-Ermäßigung
+  price: 60
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 45
+  link: http://bit.ly/2AtDsjD
+  flight-tag: #
+
+- title: Mediterraner 5*-Urlaub
+  id: mediterraner-5-urlaub
+  location: Atrium Prestige Thalasso Spa Resort & Villas, Rhodos, Griechenland
+  description: Luxus-Erholung auf der Sonneninsel – inkl. Vollpension, Spa-Zugang, Transfers & Extras
+  price: 799
+  price-description: pro Person für 7 Nächte
+  saved: 27
+  link: http://bit.ly/2P7l9FY
   flight-tag: true
