@@ -1,32 +1,32 @@
-- title: "Hellas: 5*-Inselglück auf Kos"
-  id: hellas-5-inselgluck-auf-kos
-  location: Mitsis Ramira Beach Hotel, Kos, Griechenland
-  description: Inkl. Flügen, Transfers, kostenfreiem Upgrade & All-inclusive
-  price: 522
-  price-description: pro Person für 7 Nächte
-  saved: 32
-  link: http://bit.ly/2PAlK8p
-  flight-tag: true
+- title: "Mediterranes Paradies am Strand von Korfu"
+  id: corfu-imperial
+  location: Corfu Imperial – Grecotel Exclusive Resort, Kommeno, Korfu, Griechenland
+  description: "Luxuriöses Strandresort auf privater Halbinsel auf Korfu – inkl. Halbpension & Extras"
+  price: 94
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 62
+  link: http://bit.ly/2Pi0HT6
+  flight-tag: #
 
-- title: Neues Suiten-Hotel in Kretas Norden
-  id: neues-suiten-hotel-in-kretas-norden
-  location: T-Hotel Premium Suites, Bali bei Rethymno, Kreta, Griechenland
-  description: Prost – auf Ihren Urlaub! Inkl. Extra-Flasche Wein, Flügen, Mietwagen, Halbpension und Rail&Fly
-  price: 769
-  price-description: pro Person für 7 Nächte
-  saved: 23
-  link: http://bit.ly/2OPl4qo
-  flight-tag: true
+- title: Unbeschwertheit auf griechisch
+  id: thermal-spa-resort
+  location: Miraggio Thermal Spa Resort, Chalkidiki, Griechenland
+  description: Junior-Suite im Luxusresort mit Blick auf die Ägäis – inkl. Halbpension
+  price: 53
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 62
+  link: http://bit.ly/2BOFooC
+  flight-tag: #
 
-- title: 5*-Lifestyle auf Chalkidiki
-  id: lifestyle-auf-chalkidiki
-  location: Sani Dunes Resort, Kassandra, Chalkidiki, Griechenland
-  description: Luxuriöse Erholung an der Ägäis – inkl. Flügen, Privattransfers, Vollpension & Begrüßungsgetränk
-  price: 949
+- title: 5*-Sonnenparadies auf Kreta
+  id: elounda-mare-hotel
+  location: Elounda Mare Hotel – Relais & Châteaux, Kreta, Griechenland
+  description: Inkl. Frühstück, Begrüßungsgetränk, täglicher Nutzung von Sauna & Hamam sowie weiteren Extras
+  price: 80
   price-description: pro Person für 7 Nächte
-  saved: 17
-  link: http://bit.ly/2Q5q0Ml
-  flight-tag: true
+  saved: 56
+  link: http://bit.ly/2SsEMuh
+  flight-tag: #
 
 - title: Griechischer 5*-Glanz auf Korfu
   id: griechischer-5-glanz-auf-korfu
@@ -38,25 +38,35 @@
   link: http://bit.ly/2FrYogj
   flight-tag: true
 
-- title: "Frühbucher: 5*-Suitenluxus auf Santorin"
-  id: suitenluxus-auf-santorin
-  location: Phōs The Boutique, Akrotiri, Santorin, Griechenland
-  description: Inkl. Frühstück, 1 Flasche Wein, Obst auf dem Zimmer bei Ankunft & Minibar-Ermäßigung
-  price: 152
+- title: "Erlesener Luxus in der Ägäis"
+  id: ixian-grand
+  location: The Ixian Grand by Sentido, Rhodos, Griechenland
+  description: Luxuriöses Adults-only-Hotel in Premiumlage – inkl. Halbpension, Spa-Gutschein & Extra
+  price: 50
   price-description: pro Person - basierend auf 2 Personen
-  saved: 58
-  link: http://bit.ly/2S0knMK
+  saved: 62
+  link: http://bit.ly/2rlXrfI
   flight-tag: #
 
-- title: Romantisches Boutiquehotel auf Kos
-  id: romantisches-boutiquehotel-auf-kos
-  location: Diamond Boutique Hotel, Kos, Griechenland
-  description: Inkl. Halbpension, Begrüßungsgetränk, Obst und Wein auf dem Zimmer & Extra
-  price: 47
+- title: Designtraum auf Mykonos
+  id: archipelagos-hotel
+  location: Archipelagos Hotel, Kalo Livadi, Mykonos, Griechenland
+  description: Exquisites Resort auf den Kykladen – inkl. Frühstück, Begrüßungsgetränk & Extras
+  price: 138
   price-description: pro Person - basierend auf 2 Personen
-  saved: 50
-  link: http://bit.ly/2TN5v6a
+  saved: 55
+  link: http://bit.ly/2KTIafk
   flight-tag: #
+
+- title: 5*-Sonnenparadies auf Kreta
+  id: elounda-mare-hotel-flights
+  location: Elounda Mare Hotel – Relais & Châteaux, Kreta, Griechenland
+  description: Inkl. Flügen, Transfers, täglicher Nutzung von Sauna & Hamam sowie weiteren Wellness-Extras
+  price: 815
+  price-description: pro Person für 7 Nächte
+  saved: 36
+  link: http://bit.ly/2BPHXXn
+  flight-tag: true
 
 - title: Traumurlaub de luxe unter der Sonne Kretas
   id: traumurlaub-de-luxe-unter-der-sonne-kretas
@@ -88,15 +98,15 @@
   link: http://bit.ly/2BBIgVL
   flight-tag: true
 
-- title: Inselglück in der griechischen Ägäis
-  id: inselgluck-in-der-griechischen-agais
-  location: Kassandra Bay Resort & Spa, Skiathos, Griechenland
-  description: Entspannter Badeurlaub in Skiathos – inkl. Halbpension, 1 Flasche Wein & 1x Spa-Ermäßigung
-  price: 60
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 45
-  link: http://bit.ly/2AtDsjD
-  flight-tag: #
+- title: Neue Design-Oase in der Ägäis
+  id: diamond-boutique-hotel
+  location: Diamond Boutique Hotel, Kos, Griechenland
+  description: "Sommerurlaub 2019: Inkl. Flügen, Halbpension & Transfers"
+  price: 499
+  price-description: pro Person für 7 Nächte
+  saved: 26
+  link: http://bit.ly/2PlhjJL
+  flight-tag: true
 
 - title: Mediterraner 5*-Urlaub
   id: mediterraner-5-urlaub
@@ -106,4 +116,24 @@
   price-description: pro Person für 7 Nächte
   saved: 27
   link: http://bit.ly/2P7l9FY
+  flight-tag: true
+
+- title: All-inclusive-Auszeit im sonnenverwöhnten Kreta
+  id: santa-marina-beach
+  location: Santa Marina Beach, Agia Marina, Chania, Kreta, Griechenland
+  description: Inkl. Flügen, Privattransfers, All-inclusive & Begrüßungsgetränk
+  price: 649
+  price-description: pro Person für 7 Nächte
+  saved: 23
+  link: http://bit.ly/2E1cPpC
+  flight-tag: true
+
+- title: Genusstage unter griechischer Mittelmeersonne
+  id: the-grove
+  location: The Grove Seaside Hotel, Nafplio, Griechenland
+  description: Stranderholung, Kulinarik & Kulturtrip – inkl. Flügen, Transfers & All-inclusive
+  price: 500
+  price-description: pro Person für 7 Nächte
+  saved: 12
+  link: http://bit.ly/2Rz9Ngf
   flight-tag: true
