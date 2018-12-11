@@ -28,16 +28,6 @@
   link: http://bit.ly/2SsEMuh
   flight-tag: #
 
-- title: Griechischer 5*-Glanz auf Korfu
-  id: griechischer-5-glanz-auf-korfu
-  location: Domes Miramare Corfu, Korfu, Griechenland
-  description: "Frühbucher-Special: Adults-only-Hotel mit Flügen, Transfers, Frühstück, 1x Lunch & 1x Dinner"
-  price: 799
-  price-description: pro Person für 7 Nächte
-  saved: 29
-  link: http://bit.ly/2FrYogj
-  flight-tag: true
-
 - title: "Erlesener Luxus in der Ägäis"
   id: ixian-grand
   location: The Ixian Grand by Sentido, Rhodos, Griechenland
@@ -48,16 +38,6 @@
   link: http://bit.ly/2rlXrfI
   flight-tag: #
 
-- title: Designtraum auf Mykonos
-  id: archipelagos-hotel
-  location: Archipelagos Hotel, Kalo Livadi, Mykonos, Griechenland
-  description: Exquisites Resort auf den Kykladen – inkl. Frühstück, Begrüßungsgetränk & Extras
-  price: 138
-  price-description: pro Person - basierend auf 2 Personen
-  saved: 55
-  link: http://bit.ly/2KTIafk
-  flight-tag: #
-
 - title: 5*-Sonnenparadies auf Kreta
   id: elounda-mare-hotel-flights
   location: Elounda Mare Hotel – Relais & Châteaux, Kreta, Griechenland
@@ -66,26 +46,6 @@
   price-description: pro Person für 7 Nächte
   saved: 36
   link: http://bit.ly/2BPHXXn
-  flight-tag: true
-
-- title: Traumurlaub de luxe unter der Sonne Kretas
-  id: traumurlaub-de-luxe-unter-der-sonne-kretas
-  location: Cavo Spada Luxury Sports & Leisure Resort & Spa, Kolymbari, Kreta, Griechenland
-  description: Exklusive All-inclusive-Auszeit mit Meerblick inkl. Flügen, Rail&Fly & Flughafen-Transfers
-  price: 625
-  price-description: pro Person für 7 Nächte
-  saved: 20
-  link: http://bit.ly/2FKW3NK
-  flight-tag: true
-
-- title: Paradiesisches 5*-Strandresort auf Chalkidiki
-  id: paradiesisches-5-strandresort-auf-chalkidiki
-  location: Eagles Palace, Ouranopolis, Chalkidiki, Griechenland
-  description: Inkl. Flügen, Direkttransfers, Halbpension, Begrüßungsgetränk & WLAN-Nutzung
-  price: 766
-  price-description: pro Person für 7 Nächte
-  saved: 28
-  link: http://bit.ly/2DMCgLl
   flight-tag: true
 
 - title: Sommertraum Mykonos
@@ -108,26 +68,6 @@
   link: http://bit.ly/2PlhjJL
   flight-tag: true
 
-- title: Mediterraner 5*-Urlaub
-  id: mediterraner-5-urlaub
-  location: Atrium Prestige Thalasso Spa Resort & Villas, Rhodos, Griechenland
-  description: Luxus-Erholung auf der Sonneninsel – inkl. Vollpension, Spa-Zugang, Transfers & Extras
-  price: 799
-  price-description: pro Person für 7 Nächte
-  saved: 27
-  link: http://bit.ly/2P7l9FY
-  flight-tag: true
-
-- title: All-inclusive-Auszeit im sonnenverwöhnten Kreta
-  id: santa-marina-beach
-  location: Santa Marina Beach, Agia Marina, Chania, Kreta, Griechenland
-  description: Inkl. Flügen, Privattransfers, All-inclusive & Begrüßungsgetränk
-  price: 649
-  price-description: pro Person für 7 Nächte
-  saved: 23
-  link: http://bit.ly/2E1cPpC
-  flight-tag: true
-
 - title: Genusstage unter griechischer Mittelmeersonne
   id: the-grove
   location: The Grove Seaside Hotel, Nafplio, Griechenland
@@ -136,4 +76,74 @@
   price-description: pro Person für 7 Nächte
   saved: 12
   link: http://bit.ly/2Rz9Ngf
+  flight-tag: true
+
+- title: Strandresort auf Skiathos
+  id: kb-ammos
+  location: KB Ammos, Skiathos, Griechenland
+  description: Hideaway am Megali Ammos Beach – inkl. Frühstück, Mietwagen für einen Tag & Extras
+  price: 60
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 47
+  link: http://bit.ly/2QHUXXq
+  flight-tag: #
+
+- title: Sonnenverwöhnter Luxus auf Kreta
+  id: Creta-Palace
+  location: Creta Palace, Rethymnon, Kreta, Griechenland
+  description: Inkl. Halbpension, Spa-Ermäßigung, 1 Obstkorb & 1 Flasche Wein
+  price: 87
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 50
+  link: http://bit.ly/2Eqqp6E
+  flight-tag: #
+
+- title: Inselidylle mit All-inclusive auf Kos
+  id: Ammos-Resort
+  location: Ammos Resort, Mastichari, Kos, Südliche Ägäis, Griechenland
+  description: Inkl. All-inclusive, Begrüßungsgetränk, Massage-Ermäßigung, Privatparkplatz & Extras
+  price: 29
+  price-description: pro Person - basierend auf 3 Personen
+  saved: 68
+  link: http://bit.ly/2EodJxm
+  flight-tag: #
+
+- title: Zeit zu zweit im Traumresort auf Korfu
+  id: White-Corfu
+  location: Mr & Mrs White Corfu, Acharavi, Korfu, Griechenland
+  description: Zimmer mit Gartenblick – inkl. Frühstück, 1x oder wahlweise 2x Dinner & Extras
+  price: 56
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 60
+  link: http://bit.ly/2B75xxr
+  flight-tag: #
+
+- title: Rhodos – Mittelalterflair und Ägäis-Charme
+  id: Rodos-Park
+  location: Rodos Park Suites & Spa, Rhodos, Griechenland
+  description: Stilvolle Inseloase mit Spa und hübschem Garten – inkl. Frühstück & Wellness-Ermäßigung
+  price: 66
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 36
+  link: http://bit.ly/2EcLBwa
+  flight-tag: #
+
+- title: Suitenluxus unter der Sonne Korfus
+  id: Kairaba-Sandy-Villas
+  location: Kairaba Sandy Villas, Agios Georgios, Korfu, Griechenland
+  description: Suite mit Poolzugang inkl. Flügen, All-inclusive & Transfer
+  price: 799
+  price-description: pro Person für 7 Nächte
+  saved: 18
+  link: http://bit.ly/2EoaFkC
+  flight-tag: true
+
+- title: Hideaway unter griechischer Sonne
+  id: Miraggio-Thermal-Spa-Resort
+  location: Miraggio Thermal Spa Resort, Chalkidiki, Griechenland
+  description: Inkl. Flügen, Transfers, Junior-Suite mit Garten- oder Meerblick & Halbpension
+  price: 489
+  price-description: pro Person für 7 Nächte
+  saved: 33
+  link: http://bit.ly/2QIUFiR
   flight-tag: true
